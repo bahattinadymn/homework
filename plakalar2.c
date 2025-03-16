@@ -12,7 +12,7 @@ int main() {
     int bulundu = 0;  // girilen plaka kodunun dosyada olup olmadigini kontrol eder
 
     // Dosyayi acildi
-    dosya = fopen("C:\\Users\\bhtna\\Documents\\Artvin_08.txt", "r");
+    dosya = fopen("C:\\Users\\bhtna\\Documents\\plakakodlari.txt", "r");
       // dosya adresi ve dosyada yapilacak islem gstergesi (r -> read)
 
           if (dosya == NULL) {     
