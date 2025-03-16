@@ -1,0 +1,8 @@
+
+28       Giresun
+29       Gümüþhane
+52       Ordu  
+53       Rize  
+61       Trabzon
+69       Bayburt
+08       Artvin
