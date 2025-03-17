@@ -46,7 +46,7 @@ int main() {
     }
 
     if (!bulundu) {
-        printf("Plaka kodu %d'ye ait bir şehir bulunamadi.\n", aranan_plaka);
+        printf("Plaka kodu %d olan bir sehir bulunamadi.\n", aranan_plaka);
     } 
           //girilen plaka kodu bulunamazsam ekrana bulunamadi ifadesi yazdirilir
 
